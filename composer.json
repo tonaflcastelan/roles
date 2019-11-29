@@ -1,0 +1,17 @@
+{
+    "name": "tonacastelan/roles",
+    "description": "Paquete para administrar roles y permisos",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^7.0@dev",
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tonatiuh Flores",
+            "email": "tona.castelan16@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
